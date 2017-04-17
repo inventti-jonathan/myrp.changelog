@@ -1,6 +1,7 @@
 # Próxima release
 
 ## Funciolidades
+- Teste 1
 
 ## Melhorias
 
